@@ -1,4 +1,2 @@
 #!/bin/bash
-if [ ! -d "/tmp/my_first_directory" ]; then
-  mkdir /tmp/my_first_directory
-fi
+mkdir /tmp/my_first_directory
